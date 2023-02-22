@@ -1208,6 +1208,14 @@ h6 {
   color: #fff;
 }
 
+.hero a {
+  font-size: 40px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  color: #fff;
+}
+
 .hero p {
   color: rgba(255, 255, 255, 0.6);
   margin-bottom: 30px;
