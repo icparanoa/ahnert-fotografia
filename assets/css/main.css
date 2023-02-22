@@ -316,21 +316,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 125px;
-}
-
-.header .logo h1 {
-  font-size: 32px;
-  margin: 0;
-  font-weight: 400;
-  color: #fff;
-  font-family: var(--font-secondary);
-}
-
-.header .logo i {
-  font-size: 32px;
-  margin-right: 8px;
-  line-height: 0;
+  max-height: 120px;
 }
 
 @media (max-width: 575px) {
